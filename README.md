@@ -1,8 +1,3 @@
-``# GitPrint
-Test for GirPrint - directly export and print README markdown file from github.
-
---- following are test text ---
-``
 # How to check and update line list
 
 ----------
