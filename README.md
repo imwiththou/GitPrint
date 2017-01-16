@@ -1,8 +1,5 @@
 # How to check and update line list
 
-----------
-
-
 ## What is process line list?
 
 Process line list is a database that store all the information associated with each individual process line in a plant design. It is one of the most essential document required in engineering basic and detailed design phases. The list is constantly updated whenever changed were made and marked on Piping and Instrument Diagrams (PIDs). From the process line list, instrument department and piping department can quickly retrieved the information they need, and guarantee the ordering of instrument or pipelines accurate. Pipe line information is also crucial when facing 3D modeling challenges, as the elevation, length and pipe size/diameter will greatly affect the piping layout and space management planning. 
